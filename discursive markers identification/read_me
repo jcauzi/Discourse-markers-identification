@@ -1,0 +1,3 @@
+.ipynb file is a google collab notebook with the CNN model and data processing functions 
+.txt file is the praat script allowing to extract annotated occurences of differents discourse markers candidates from the LOCAS corpus
+I do not have authorization to give the extracted audio files (property of LIMSI and UCL)
